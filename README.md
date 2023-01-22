@@ -6,7 +6,7 @@
 * Js
 
 **In-Class Assignments**
-* ICA1
+* [ICA1](file:///C:/Users/Kaya/Downloads/Kaya%20Walker%20ICA1%20--%20How%20to%20Search.pdf)
 * ICA2
 * ICA3
 * ICA4
@@ -23,7 +23,7 @@
 * ICA15
 
 **Weekly Assignments**
-* WA1
+* [WA1](KayaWalker.github.io/wa/wa1.html)
 * WA2
 * WA3
 * WA4
