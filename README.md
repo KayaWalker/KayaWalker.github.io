@@ -6,7 +6,7 @@
 * Js
 
 **In-Class Assignments**
-* [ICA1](file:///C:/Users/Kaya/Downloads/Kaya%20Walker%20ICA1%20--%20How%20to%20Search.pdf)
+* [ICA1](KayaWalker.github.io/ica/Kaya Walker ICA1 -- How to Search.pdf)
 * ICA2
 * ICA3
 * ICA4
