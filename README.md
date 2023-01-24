@@ -6,8 +6,8 @@
 * Js
 
 **In-Class Assignments**
-* [ICA1](KayaWalker.github.io/ica/ICA1)
-* [ICA2](KayaWalker.github.io/ica/ICA2)
+* [ICA1](/ica/ICA1.pdf)
+* [ICA2](/ica/ICA2.pdf)
 * ICA3
 * ICA4
 * ICA5
