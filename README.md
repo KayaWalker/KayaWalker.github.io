@@ -8,7 +8,7 @@
 **In-Class Assignments**
 * [ICA1](/ica/ICA1.pdf)
 * [ICA2](/ica/ICA2.pdf)
-* <a href="https://kayawalker.github.io/ica/ica3a.html">ICA3</a>
+* <a href="https://kayawalker.github.io/ica/ica3a.html">ICA3a</a>
 * ICA4
 * ICA5
 * ICA6
