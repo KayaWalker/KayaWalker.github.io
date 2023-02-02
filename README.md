@@ -8,7 +8,7 @@
 **In-Class Assignments**
 * [ICA1](/ica/ICA1.pdf)
 * [ICA2](/ica/ICA2.pdf)
-* [ICA3](/ica/ica3a.html)
+* <a href="https://kayawalker.github.io/ica/ica3a.html">ICA3</a>
 * ICA4
 * ICA5
 * ICA6
@@ -24,7 +24,7 @@
 
 **Weekly Assignments**
 * <a href="https://kayawalker.github.io/wa/wa1.html">WA1</a>
-* <a href="https://kayawalker.github.io/ica/ica3a.html">WA2</a>
+* WA2
 * WA3
 * WA4
 * WA5
