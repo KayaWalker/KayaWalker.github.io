@@ -25,7 +25,7 @@
 **Weekly Assignments**
 * <a href="https://kayawalker.github.io/wa/wa1.html">WA1</a>
 * WA2
-* WA3
+* <a href="https://kayawalker.github.io/wa/wa3.html">WA3</a>
 * WA4
 * WA5
 * WA6
