@@ -10,7 +10,7 @@
 * [ICA2](/ica/ICA2.pdf)
 * <a href="https://kayawalker.github.io/ica/ica3a.html">ICA3a</a>
 * <a href="https://kayawalker.github.io/ica/ica4.html">ICA4</a>
-* ICA5
+* <a href="https://kayaWalker.github.io/ica/ica5/ica5.html">ICA5</a>
 * ICA6
 * ICA7
 * ICA8
@@ -27,7 +27,7 @@
 * WA2
 * <a href="https://kayawalker.github.io/wa/wa3.html">WA3</a>
 * <a href="https://kayawalker.github.io/wa/wa4.html">WA4</a>
-* WA5
+* <a href="https://kayawalker.github.io/wa/wa5.html">WA5</a>
 * WA6
 * WA7
 * WA8
