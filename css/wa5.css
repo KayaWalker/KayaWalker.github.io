@@ -1,0 +1,36 @@
+body, html{
+    width: 100%;
+    margin: 0;
+    font-size: 50px;
+}
+
+#Background {
+    /* Full height */
+    min-width: 100%;
+    min-height: 100%;
+    
+    /* Center and scale the image nicely */
+    background-size: cover;
+}
+
+#Overlay1{
+    background-color: navy;
+    max-width: 600px;
+    color: white;
+    opacity: 90%;
+    position: absolute;
+    top: 50px;
+    right: 50px;
+    margin: auto;
+    padding: 10px;
+}
+
+#Overlay2{
+    color: white;
+    position: absolute;
+    opacity: 90%;
+    background-color: navy;
+    bottom: 10px;
+    padding: 10px;
+    margin: 50px;
+}
