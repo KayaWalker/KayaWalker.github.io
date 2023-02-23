@@ -11,9 +11,23 @@ body{
     padding:5vw;
 }
 
+#flex-child1{
+    order: 3;
+}
+#flex-child2{
+    order: 4;
+}
+#flex-child3{
+    order: 2;
+}
+#flex-child4{
+    order: 1;
+}
+
 
 #grid-parent{
     display:grid;
+    grid-template-columns: repeat(3, 1fr);
 }
 
 #grid-parent h1{
@@ -23,32 +37,32 @@ body{
     
 }
 #no0{
-
+    order: 10;
 }
 #no1{
-
+    order: 7;
 }
 #no2{
-
+    order: 8;
 }
 #no3{
-
+    order: 9;
 }
 #no4{
-
+    order: 4;
 }
 #no5{
-
+    order: 5;
 }
 #no6{
-
+    order: 6;
 }
 #no7{
-
+    order: 1;
 }
 #no8{
-
+    order: 2;
 }
 #no9{
-
+    order: 3;
 }
