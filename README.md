@@ -29,7 +29,7 @@
 * <a href="https://kayawalker.github.io/wa/wa4.html">WA4</a>
 * <a href="https://kayawalker.github.io/wa/wa5.html">WA5</a>
 * WA6
-* WA7
+* <a href="https://kayawalker.github.io/wa/wa7.html"> WA6</a>
 * WA8
 * WA9
 * WA10
