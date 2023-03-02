@@ -1,0 +1,77 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color:rgb(255, 220, 226);
+    font-family: cursive;
+}
+nav{
+    height: 50vh;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height:20px;
+    background-color: darksalmon;
+}
+nav a{
+    width:10vw;
+    text-align: center;
+    text-decoration: none;
+    color:maroon;
+}
+
+
+img{
+    width: 30vw;
+    height: 30vh;
+}
+
+#red-ball{
+    background-color: black;
+    width: 20px;
+    height:20px;
+    border-radius: 50%;
+    position: absolute;
+    animation-duration: 20s;
+    animation-name: going-places;
+    animation-iteration-count: infinite;
+}
+
+@keyframes hoverme{
+    0% {
+      color: red;
+    }
+    15% {
+      color: orange;
+    }
+    30% {
+      color: yellow;
+    }
+    45% {
+      color: green;
+    }
+    60% {
+      color: blue;
+    }
+    75% {
+        color: indigo;
+    }
+    90% {
+        color: violet;
+    }
+    100% {
+        color: pink;
+    }
+}
+
+h1:hover{
+    animation: hoverme 3s infinite;
+}
+
+@keyframes going-places{
+    from {left: 5vw; top: 5vh;}
+    25% {left: 95vw; top: 95vh;}
+    50% {left: 95vw; top: 5vh;}
+    75% {left: 5vw; top: 95vh;}
+    to {left: 5vw; top: 5vh;}
+}
