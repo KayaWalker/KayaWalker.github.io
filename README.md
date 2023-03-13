@@ -2,7 +2,7 @@
 
 **Projects**
 * <a href="https://kayawalker.github.io/html-midterm/page5.html">HTML</a>
-* CSS
+* <a href="https://kayawalker.github.io/index.html">CSS</a>
 * Js
 
 **In-Class Assignments**
