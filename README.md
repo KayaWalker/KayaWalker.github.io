@@ -2,7 +2,7 @@
 
 **Projects**
 * <a href="https://kayawalker.github.io/html-midterm/page5.html">HTML</a>
-* <a href="https://kayawalker.github.io/index.html">CSS</a>
+* <a href="https://kayawalker.github.io">CSS</a>
 * Js
 
 **In-Class Assignments**
@@ -13,8 +13,7 @@
 * <a href="https://kayaWalker.github.io/ica/ica5/ica5.html">ICA5</a>
 * <a href="https://kayaWalker.github.io/ica/ica6/ica6-part1.html">ICA6</a>
 * <a href="https://kayaWalker.github.io/ica/ica7.html">ICA7</a>
-* ICA8
-* ICA9
+* <a href="https://kayawalker.github.io/ica/ica9.html">ICA9</a>
 * ICA10
 * ICA11
 * ICA12
@@ -30,7 +29,6 @@
 * <a href="https://kayawalker.github.io/wa/wa5.html">WA5</a>
 * WA6
 * <a href="https://kayawalker.github.io/wa/wa7.html"> WA7</a>
-* WA8
 * WA9
 * WA10
 * WA11
