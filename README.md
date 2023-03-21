@@ -14,7 +14,7 @@
 * <a href="https://kayaWalker.github.io/ica/ica6/ica6-part1.html">ICA6</a>
 * <a href="https://kayaWalker.github.io/ica/ica7.html">ICA7</a>
 * <a href="https://kayawalker.github.io/ica/ica9.html">ICA9</a>
-* ICA10
+* <a href="https://kayawalker.github.io/ica/ica10.html">ICA10</a>
 * ICA11
 * ICA12
 * ICA13
