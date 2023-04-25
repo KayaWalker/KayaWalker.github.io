@@ -28,11 +28,11 @@
 * <a href="https://kayawalker.github.io/wa/wa4.html">WA4</a>
 * <a href="https://kayawalker.github.io/wa/wa5.html">WA5</a>
 * WA6
-* <a href="https://kayawalker.github.io/wa/wa7.html"> WA7</a>
+* <a href="https://kayawalker.github.io/wa/wa7.html">WA7</a>
 * WA9
 * WA10
 * WA11
 * WA12
-* WA13
+* <a href="https://kayawalker.github.io/wa/wa13.html">WA13</a>
 * WA14
 * WA15
