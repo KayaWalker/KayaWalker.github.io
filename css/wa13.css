@@ -24,7 +24,7 @@ body{
     font-size: 5vh;
 }
 
-#button {
+input[type="button"] {
     background-color: white;
     border: groove;
     border-radius: 10px;
@@ -36,7 +36,7 @@ body{
     font-size: 3vh;
 }
 
-#button:hover{
+input[type="button"]:hover{
     border-color: red;
     border-radius: 15;
 }
