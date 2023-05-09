@@ -3,7 +3,7 @@
 **Projects**
 * <a href="https://kayawalker.github.io/html-midterm/page5.html">HTML</a>
 * <a href="https://kayawalker.github.io">CSS</a>
-* Js
+* <a href="KayaWalker.github.io/js-final/final.html">JS</a>
 
 **In-Class Assignments**
 * [ICA1](/ica/ICA1.pdf)
