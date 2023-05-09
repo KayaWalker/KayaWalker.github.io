@@ -10,18 +10,19 @@
 <body>
     <div class="intro">
         <h1>Volume Changer!</h1>
-        <p>Opperates like the classic card game Blackjack but cards range from 1-50</p>
-        <p>Click HIT to randomize a card to add to your volume</p>
+        <p>Opperates like the classic card game Blackjack but to controle your volume</p>
+        <p>Click HIT to draw a card</p>
         <p>Click STAY to apply current volume</p>
         <p>If you exceed 100 you BUST and start again at 0</p>
     </div>
     <div class="game">
-        <p>Current volume: <span class="output">0</span></p>
+        <p>Current volume: <span id="output"></span></p>
         <form>
             <input class="random-button" type="button" name="random-button" value="HIT">
             <input class="submit-button" type="button" name="submit-button" value="STAY">
         </form>
-        <div class="card-container">
+        <div id="your-cards"></div>
+        <!-- <div class="card-container">
             <div class="card">
                 <div class="card-inner">
                     <div class="card-front">
@@ -33,7 +34,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
     </div>
     <script src="final-script.js"></script>
 </body>

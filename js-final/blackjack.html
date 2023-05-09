@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Black Jack</title>
+        <link rel="stylesheet" href="blackjack.css">
+        <script src="blackjack.js"></script>
+    </head>
+
+    <body>
+        <div class="intro">
+            <h1>Volume Changer!</h1>
+            <p>Opperates like the classic card game Blackjack but to bet your volume</p>
+            <p>Click HIT to draw a card</p>
+            <p>Click STAY to apply current volume</p>
+            <p>You lose your bet if you exceed 21 (BUST) or if the Dealer gets closer to 21</p>
+            <p>You win your bet if you get closer to 21 then the dealer</p>
+        </div>
+        <div class="bet">
+            <p>Please select your bet.</p>
+            <p id="total"></p>
+            <input type="range" min="0" max="total" class="slider" id="myRange">
+            <p class="bet-output"></p>
+        </div>
+        <h2>Dealer: <span id="dealer-sum"></span></h2>
+        <div id="dealer-cards">
+            <img id="hidden" src="images/card-back-Blue.png">
+        </div>
+
+        <h2>You: <span id="your-sum"></span></h2>
+        <div id="your-cards"></div>
+
+        <br>
+        <button id="hit">HIT</button>
+        <button id="stay">STAY</button>
+        <button id="submit">SUBMIT</button>
+        <p id="results"></p>
+    </body>
+</html>

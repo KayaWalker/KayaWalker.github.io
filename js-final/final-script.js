@@ -1,3 +1,6 @@
+var output = 0;
+document.getElementById("output").innerText = output;
+
 function check() {
     console.log('test');
 }
@@ -28,17 +31,17 @@ function plus() {
 function random() {
     // outputInt = randomNumber(0, 100);
     // output.textContent = outputInt;
-    let cardImg = documetn.createElement("img");
+    let cardImg = document.createElement("img");
     let card = deck.pop();
-    cardImg.scr = "./cards/" + card + ".png";
-    output.textContent += getValue(card);
+    cardImg.scr = "images/" + card + ".png";
+    output += getValue(card);
     document.getElementById("your-cards").append(cardImg);
 }
 
 function randomNumber(min, max) {
     const num = Math.floor(Math.random() * (max - min + 1)) + min;
     return num;
-  }
+}
 
 
 
@@ -65,7 +68,7 @@ function buildDeck() {
 
     for(let i = 0; i < types.length; i++) {
         for(let j = 0; j < values.length; j++) {
-            deck.push(types[i] + "-" + values[j]);
+            deck.push(values[j] + "-" + types[i]);
         }
     }
     // console.log(deck);
